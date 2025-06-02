@@ -1,4 +1,18 @@
+body{
+  display: none;
+}
 .custom_cdn_css {
 color: blue;
 display: block;
+}
+.slider__custom-1{
+  display: block;
+}
+
+.slider__custom-2{
+  display: block;
+}
+
+.custom_navBar{
+  display: block
 }
