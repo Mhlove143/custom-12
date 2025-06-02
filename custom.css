@@ -2,8 +2,7 @@ body{
   display: none;
 }
 .custom_cdn_css {
-color: blue;
-display: block;
+display: none;
 }
 .slider__custom-1{
   display: block;
